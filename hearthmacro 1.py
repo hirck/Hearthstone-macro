@@ -1,6 +1,7 @@
 import pyautogui
 import keyboard
 import time
+#its my first macro. its not work cuz i made by only pyautogui , its can not read new image
 a = pyautogui.locateCenterOnScreen("D:\\Users\\lobot\\Desktop\\pygame projects\\pyautoui macro test\\MODECHOOSE.JPG",confidence= 0.7)
 b = pyautogui.locateCenterOnScreen("D:\\Users\\lobot\\Desktop\\pygame projects\\pyautoui macro test\\shield.JPG" ,confidence= 0.5)
 c = pyautogui.locateCenterOnScreen("D:\\Users\\lobot\\Desktop\\pygame projects\\pyautoui macro test\\start.JPG" ,confidence= 0.7)
